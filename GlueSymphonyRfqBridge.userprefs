@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1D81E5AE-7B54-4F1C-B4DC-33862D03B7BD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tick42-dot-net-glue-symphony-rfq-bridge Status">
+    <Files>
+      <File FileName="GlueSymphonyRfqBridge/App/Glue/GlueRfqBridge.cs" Line="27" Column="1" />
+      <File FileName="GlueSymphonyRfqBridge/App/Program.cs" Line="58" Column="35" />
+      <File FileName="tick42-dot-net-glue-symphony-rfq-bridge Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Stoyan/Projects/tick42-dot-net-glue-symphony-rfq-bridge/GlueSymphonyRfqBridge/App/Glue/GlueRfqServer.cs" line="360" column="36" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GlueSymphonyRfqBridge PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
